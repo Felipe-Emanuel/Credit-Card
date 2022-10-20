@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> Explorer Lab #01 </h1>
 
 <p align="center">
@@ -46,3 +47,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+# Credit-Card
+aplicação desenvolvida com Explorer Lab da Rocketseat
+>>>>>>> 07da735fd029f336173d7b7ae9e5279bf2372607
